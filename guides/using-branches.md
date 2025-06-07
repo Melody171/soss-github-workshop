@@ -44,7 +44,7 @@ Your changes will stay on the branch until you choose to merge them.
 ## Merging your branch into `main`
 
 1. Go back to the homepage of your repository
-2. You should see a **Compare & pull request** button — click it
+2. You should see a **Compare & pull request** button -> click it
 3. Add a short title and description (for example, “Added About Me section”)
 4. Click **Create pull request**
 5. On the next page, click **Merge pull request**
