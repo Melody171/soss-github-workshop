@@ -1,6 +1,6 @@
 # Publishing Your Portfolio with GitHub Pages
 
-Once you’ve created your e-portfolio repository, you can publish it as a website using GitHub Pages. This is a free hosting service built into GitHub that allows you to share your work more accessibly — whether for an application, a course assessment, or public outreach.
+Once you’ve created your e-portfolio repository, you can publish it as a website using GitHub Pages. This is a free hosting service built into GitHub that allows you to share your work more accessibly, whether for an application, a course assessment, or public outreach.
 
 ---
 
