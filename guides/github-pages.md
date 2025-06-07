@@ -54,7 +54,7 @@ If your site doesn’t appear:
 - Double-check that your repository is set to **public**
 - Confirm you’ve selected the correct branch (`main`) under the Pages settings
 - Make sure there’s a valid Markdown or HTML file in the root folder
-- Refresh the page or wait a few minutes — sometimes the first build takes a little longer
+- Refresh the page or wait a few minutes as sometimes the first build takes a little longer
 
 ---
 
