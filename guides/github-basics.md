@@ -6,7 +6,7 @@ This guide introduces GitHub essentials for academic use, especially for student
 
 ## What is GitHub?
 
-GitHub is an online platform for version control and collaboration. It allows you to store, edit, and track changes to your work over time — whether it’s code, data, writing, or notes.
+GitHub is an online platform for version control and collaboration. It allows you to store, edit, and track changes to your work over time, whether it’s code, data, writing, or notes.
 
 Everything on GitHub is organised into **repositories**, or "repos", which are like folders for your projects.
 
