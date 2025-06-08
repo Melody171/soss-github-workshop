@@ -18,12 +18,16 @@ This quick exercise is designed to help you explore the structure of your GitHub
 
 Visit your repository on GitHub. You should see folders such as:
 
+<pre>
+```text
 template/
 ├── code/
 ├── data/
 ├── notes/
 ├── outputs/
 └── README.md
+```
+</pre>
 
 ---
 
