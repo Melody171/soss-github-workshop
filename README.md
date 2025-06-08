@@ -9,7 +9,7 @@ This repository contains teaching materials and activities for learning how to u
 - `slides/`: Presentation materials (PDF or links)
 - `templates/`: Checklists, planning docs, and handouts
 
-Each section is designed to be used by students and facilitator
+Each section is designed to be used by students and facilitator.
 
 ## Workshop Structure
 
@@ -17,20 +17,20 @@ This workshop introduces students to using GitHub for academic and professional 
 
 1. **Introduction to GitHub**  
    Learn what GitHub is and how version control works.  
-   → `guides/github-basics.md`
+   -> `guides/github-basics.md`
 
 2. **Try it Yourself**  
    Follow a guided activity to create your first repository and make changes.  
-   → `exercises/intro-exercise.md`
+   -> `exercises/intro-exercise.md`
 
 3. **Build Your Portfolio**  
    Use the provided template structure to organise and document your work.  
-   → `templates/`
+   -> `templates/`
 
 4. **Publish Your Portfolio**  
    Learn how to publish your portfolio online using GitHub Pages.  
-   → `guides/github-pages.md`
+   -> `guides/github-pages.md`
 
 5. **Collaborate and Reflect**  
    Practice collaboration using issues, branches, and pull requests.  
-   → `exercises/collaboration-simulation.md`
+   -> `exercises/collaboration-simulation.md`
