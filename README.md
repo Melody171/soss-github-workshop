@@ -1,6 +1,6 @@
 # SoSS GitHub Workshop
 
-This repository contains teaching materials and activities for learning how to use GitHub for academic e-portfolios.
+This repository contains teaching materials and activities for learning how to use GitHub to create and manage digital portfolios.
 
 ## Structure
 
