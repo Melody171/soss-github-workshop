@@ -2,7 +2,7 @@
 
 This folder contains the official slide deck used in the **SoSS GitHub Workshop**.
 
-📄 [Click here to view or download the slides](slides/GitHub_Workshop.pdf))
+[Click here to view or download the slides](slides/GitHub_Workshop.pdf)
 
 ---
 
