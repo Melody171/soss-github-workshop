@@ -12,7 +12,7 @@ This repository contains teaching materials and activities for learning how to u
 Each section is designed to be used by students and facilitator.
 
 ## Workshop Structure
-
+123
 This workshop introduces students to using GitHub for academic and professional development. It combines guided tutorials with hands-on exercises.
 
 1. **Introduction to GitHub**  
